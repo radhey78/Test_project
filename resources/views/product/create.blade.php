@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="container">
-      <h2>Create A Product</h2><br  />
+      <h2>Create A Product dfgdfg</h2><br  />
 
       @if ($errors->any())
 
